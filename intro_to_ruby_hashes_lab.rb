@@ -11,7 +11,6 @@ def pioneer
   {:name => "Grace Hopper"}
 end
 
-
 def id_generator
   # return a hash with a key :id assigned to positive integer
 end
